@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f04ae4-b152-42c8-b556-c961045d8e47" name="Changes" comment="Hey">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_vue/vue.config.js" afterDir="false" />
+    <list default="true" id="92f04ae4-b152-42c8-b556-c961045d8e47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project_vue/src/components/ToDoItem.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_vue/src/components/ToDoList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/project_vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_vue/src/components/HelloWorld.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="U15Diana &lt;udianaa2001@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -60,8 +63,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647891076292</updated>
-      <workItem from="1647891077703" duration="1143000" />
+      <workItem from="1647891077703" duration="1566000" />
     </task>
+    <task id="LOCAL-00001" summary="Hey">
+      <created>1647892305178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647892305178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
